@@ -29,7 +29,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Cleoven-Calderon&theme=tokyonight&hide_border=false" alt="GitHub streak" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Cleoven-Calderon&theme=radical&hide_border=false" alt="GitHub streak" /><br/>
 </p>
 
 
@@ -43,7 +43,7 @@
 ## 🔝 Top Contributed Repo
 
 <p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=Cleoven-Calderon&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top contributed repo" />
+<img src="https://github-contributor-stats.vercel.app/api?username=Cleoven-Calderon&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top contributed repo" />
 </p>
 
 
