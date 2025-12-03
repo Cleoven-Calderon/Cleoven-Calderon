@@ -8,7 +8,7 @@
 
 🚀 An aspiring **Software Developer**  
 📊 Passionate about **Data Analytics & Machine Learning**  
-💻 Skilled in **Python** with experience in SQLite3, Git, Pandas, NumPy, etc.
+💻 Skilled in **Python** with experience in SQLite3, Git, Pandas, NumPy, etc.  
 🎯 Goal: To build **intelligent, data-driven solutions**
 
 
