@@ -24,6 +24,8 @@
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
   <img src="https://img.shields.io/badge/Altair-%233F4F75.svg?style=for-the-badge&logo=altair&logoColor=white" alt="Altair">
+  <img src="https://img.shields.io/badge/Gradio-1f1f1f?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio">
+
 </p>
 
 ## 📊 GitHub Stats
