@@ -33,19 +33,6 @@
 </p>
 
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Cleoven-Calderon&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
-
-
-## 🔝 Top Contributed Repo
-
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=Cleoven-Calderon&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top contributed repo" />
-</p>
-
 
 ## 🌐 Socials:
 
