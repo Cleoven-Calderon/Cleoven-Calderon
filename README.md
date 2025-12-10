@@ -1,6 +1,6 @@
 
 
-# 👋 Hi, I'm Cleoven Calderon
+# Hi, I'm Cleoven Calderon
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=fc035a&center=true&vCenter=true&width=550&lines=Aspiring+Software+Developer;Passionate+About+Machine+Learning;Exploring+Data+Analytics;Always+Learning+New+Things!" alt="Typing SVG" />
@@ -12,7 +12,7 @@
 🎯 Goal: To build **intelligent, data-driven solutions**
 
 
-## 💻 Tech Stack
+## Tech Stack
 
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 </p>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Cleoven-Calderon&theme=radical&hide_border=false" alt="GitHub streak" /><br/>
@@ -36,7 +36,7 @@
 
 
 
-## 🌐 Socials:
+## Socials:
 
   <a href="https://facebook.com/cleovenjee.calderon">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
