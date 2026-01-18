@@ -6,10 +6,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=fc035a&center=true&vCenter=true&width=550&lines=Aspiring+Software+Developer;Exploring+Data+Analytics" alt="Typing SVG" />
 </p>
 
-* An aspiring **Software Developer**  
-* Skilled in **Python** with experience in SQLite3, Git, Pandas, NumPy, etc.  
-
-
 
 ## Tech Stack
 
