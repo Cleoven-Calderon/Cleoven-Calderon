@@ -6,6 +6,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=fc035a&center=true&vCenter=true&width=550&lines=Aspiring+Software+Developer;Exploring+Web+Development" alt="Typing SVG" />
 </p>
 
+## Certifications
+
+- **[Data Science & Analytics](https://www.life-global.org/certificate/01ecf0f6-31c6-4f61-96b0-dfceeeb7568e)** — HP Life · August 2026
 
 ## Tech Stack
 
