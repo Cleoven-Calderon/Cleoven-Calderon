@@ -8,7 +8,7 @@
 
 ## Certifications
 
-- **[Data Science & Analytics](https://www.life-global.org/certificate/01ecf0f6-31c6-4f61-96b0-dfceeeb7568e)** — HP Life · August 2026
+- **[Data Science & Analytics](https://www.life-global.org/certificate/01ecf0f6-31c6-4f61-96b0-dfceeeb7568e)** — HP LIFE · August 2026
 
 ## Tech Stack
 
