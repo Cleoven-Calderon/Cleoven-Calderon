@@ -8,6 +8,7 @@
 
 ## Certifications
 
+- **[Introduction to Cybersecurity Awareness](https://www.life-global.org/certificate/50a1872c-f732-4597-b135-a3a67ad43b8d)** — HP LIFE · October 2026
 - **[Data Science & Analytics](https://www.life-global.org/certificate/01ecf0f6-31c6-4f61-96b0-dfceeeb7568e)** — HP LIFE · August 2026
 
 ## Tech Stack
